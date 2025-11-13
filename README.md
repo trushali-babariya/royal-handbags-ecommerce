@@ -37,7 +37,11 @@ It provides a **user-friendly interface**, **secure checkout**, and a **powerful
 - View orders and update status  
 
 ---
-Screenshot / Preview
+✨ Features
+...
+
+## 🖼️ Screenshot / Preview
+[Images here]
 ![Royal Handbags Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
 
 Homepage of RoyalHandbag Project
