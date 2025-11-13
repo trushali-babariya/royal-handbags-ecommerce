@@ -41,14 +41,9 @@ It provides a **user-friendly interface**, **secure checkout**, and a **powerful
 ...
 
 ## 🖼️ Screenshot / Preview
-[Images here]
-![Royal Handbags Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
-
-Homepage of RoyalHandbag Project
-
-[Royal Handbags Product Page](https://i.postimg.cc/rsHr0LFF/product1.png)
-
-Productpage of RoyalHandbag Project
+### Home Page
+![Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
+*Homepage of Royal Handbags Project*
 
 
 
