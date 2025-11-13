@@ -43,9 +43,9 @@ It provides a **user-friendly interface**, **secure checkout**, and a **powerful
 ## 🖼️ Screenshot / Preview
 ### Home Page
 ![Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
-*Homepage of Royal Handbags Project*
 
-
+### Product Page
+![Product Page](https://i.postimg.cc/rsHr0LFF/product1.png)
 
 ## 🧩 Tech Stack
 
