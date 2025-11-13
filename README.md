@@ -77,3 +77,7 @@ C:\xampp\htdocs\royal-handbags-ecommerce
 
 # 5️⃣ Open in your browser
 http://localhost/royal-handbags-ecommerce
+
+> This project is a collaborative work developed with [Darpana Chauhan].  
+> Deployed version: [https://github.com/darpana-chauhan/darpana-chauhan]
+
