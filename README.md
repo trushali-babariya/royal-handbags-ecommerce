@@ -9,7 +9,7 @@
   </a>
 </p>
 
-![Royal Handbags Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
+
 
 
 ---
@@ -37,6 +37,16 @@ It provides a **user-friendly interface**, **secure checkout**, and a **powerful
 - View orders and update status  
 
 ---
+Screenshot / Preview
+![Royal Handbags Home Page](https://i.postimg.cc/CKpxQx6r/index.png)
+
+Homepage of RoyalHandbag Project
+
+[Royal Handbags Product Page](https://i.postimg.cc/rsHr0LFF/product1.png)
+
+Productpage of RoyalHandbag Project
+
+
 
 ## 🧩 Tech Stack
 
