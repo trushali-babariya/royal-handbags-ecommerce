@@ -9,11 +9,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/trushali-babariya/royal-handbags-ecommerce?color=blue&style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/count/trushali-babariya/royal-handbags-ecommerce?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/trushali-babariya/royal-handbags-ecommerce?style=flat-square"/>
-</p>
+
 
 ---
 
